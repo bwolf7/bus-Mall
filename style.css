@@ -1,0 +1,12 @@
+#img {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    margin: 0 20px;
+    object-fit: contain;
+}
+
+#image-group, main {
+    display: inline-block;
+    margin: 20px;
+}
